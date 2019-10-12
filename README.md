@@ -1,6 +1,6 @@
 # BClubRepo
 
-This is a git repo for the bclub projects. The way this works, is everyone edits a file, then does a "push" on that file, uploading it to the server. Next, everyone else can do a "pull" on their end, and files they haven't touched will be updated. This allows for scalable colaboration on enormous projects. I want to use it because it means we can now work from any computer, with ease. There are also several other advantages associated with git that are not avaliable elsewhere.
+This is a git repo for the bclub projects. The way this works is everyone edits a file then does a "push" on that file, uploading it to the server. Next, everyone else can do a "pull" on their end and files they haven't touched will be updated. This allows for scalable colaboration on enormous projects. I want to use it because it means we can now work from any computer, with ease. There are also several other advantages associated with git that are not avaliable elsewhere.
 
 BTW, you can even edit this file.
 
