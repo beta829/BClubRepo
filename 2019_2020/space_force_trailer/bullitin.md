@@ -1,4 +1,4 @@
-<b>Checklist:<b/>
-need the spaceships
-<strike>need the footage, which is at school</strike>
-need to start compositing footage with placeholders
+<b>Checklist:</b><br>
+need the spaceships<br>
+<strike>need the footage, which is at school</strike><br>
+need to start compositing footage with placeholders<br>
