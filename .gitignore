@@ -104,4 +104,4 @@ venv.bak/
 .mypy_cache/
 
 # blender backups
-.blend1
+*.blend1
